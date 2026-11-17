@@ -10,9 +10,13 @@ The objective is to transform raw e-commerce data into meaningful business insig
 
 **2. Tools**
 
-PostgreSQL: Data profiling, cleaning, SQL analysis, and analytical views.
+SQL : Data profiling, cleaning, and analysis.
 
-Power BI: Data modeling, DAX measures, interactive dashboards, and visualization.
+PostgreSQL : SQL analysis and analytical views.
+
+Power BI : Data modeling, DAX measures, interactive dashboards, and visualization.
+
+DAX : Calculated measures and KPIs.
 
 **3. Dataset**
 
