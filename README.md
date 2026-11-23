@@ -4,9 +4,10 @@ SQL | PostgreSQL | Power BI | DAX | Data Analysis | Data Visualization
 
 
 **1. Project Overview**
-This project analyzes Indonesia's energy landscape from 2020 to 2024, focusing on energy consumption, fossil fuel dependency, renewable energy development, electricity generation, carbon emissions, energy efficiency, and domestic energy production.
 
-The project uses Python for data cleaning and data analysis. Then Power BI to develop an interactive dashboard that presents key energy indicators and trends.
+This project analyzes the Brazilian E-Commerce Public Dataset by Olist to explore sales performance, product performance, customer purchasing behavior, payment methods, delivery efficiency, and customer satisfaction.
+
+The objective is to analyze the raw e-commerce data and transform it into meaningful business insights using SQL and Power BI dashboards.
 
 
 **2. Tools**
