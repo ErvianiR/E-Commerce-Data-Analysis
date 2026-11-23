@@ -1,4 +1,4 @@
-#E-Commerce Data Analysis
+**E-Commerce Data Analysis**
 
 SQL | PostgreSQL | Power BI | DAX | Data Analysis | Data Visualization
 
